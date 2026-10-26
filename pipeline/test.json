@@ -41,17 +41,17 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DS_PostgreSqlTable1",
+						"referenceName": "DS_PostgreSql",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "DS_ADLS_Parquet1",
+						"referenceName": "DSadls_Parquet1",
 						"type": "DatasetReference",
 						"parameters": {
 							"container": "landing",
-							"folder": "test"
+							"folder": "test111"
 						}
 					}
 				]
