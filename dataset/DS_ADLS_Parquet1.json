@@ -1,10 +1,6 @@
 {
 	"name": "DS_ADLS_Parquet1",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "LS_adls",
-			"type": "LinkedServiceReference"
-		},
 		"parameters": {
 			"container": {
 				"type": "string"
